@@ -1,0 +1,2 @@
+# ttyUSB0
+用于在ubuntu中检查ttyUSB0端口是否有消息传回
